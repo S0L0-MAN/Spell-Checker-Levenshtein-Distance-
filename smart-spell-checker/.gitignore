@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter (in case)
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
